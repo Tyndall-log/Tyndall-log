@@ -29,10 +29,10 @@ Here, you'll find a `collection of knowledge and experiences` gathered while exp
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,atom,unity,flutter)](https://skillicons.dev)
 
 ## 📖 Diary
-![UNIQ_Library](https://github-readme-stats.vercel.app/api/pin?username=Tyndall-log&repo=UNIQ_Library)
-![UNIQ_MTU_release](https://github-readme-stats.vercel.app/api/pin?username=Tyndall-log&repo=UNIQ_MTU_release)
-![GMS2.3_Manual-KR](https://github-readme-stats.vercel.app/api/pin?username=Tyndall-log&repo=GMS2.3_Manual-KR)
-![tyndall-log](https://github-readme-stats.vercel.app/api/pin?username=Tyndall-log&repo=tyndall-log)
+![UNIQ_Library](https://github-readme-stats-tyndall-log.vercel.app/api/pin?username=Tyndall-log&repo=UNIQ_Library)
+![UNIQ_MTU_release](https://github-readme-stats-tyndall-log.vercel.app/api/pin?username=Tyndall-log&repo=UNIQ_MTU_release)
+![GMS2.3_Manual-KR](https://github-readme-stats-tyndall-log.vercel.app/api/pin?username=Tyndall-log&repo=GMS2.3_Manual-KR)
+![tyndall-log](https://github-readme-stats-tyndall-log.vercel.app/api/pin?username=Tyndall-log&repo=tyndall-log)
 
 ## 🎓 Status
 <a href="https://github.com/Tyndall-log">
